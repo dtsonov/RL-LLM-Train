@@ -60,7 +60,7 @@ Running 10 test iterations...
 -  Run 1: SUCCESS - Got exp_a
 -  Run 2: FAILURE - Got exp_c
 ...
-================================
+
 Results:
 --------
    MAX_TOKENS = 2000
@@ -82,7 +82,7 @@ Results:
    Passed: 4/10
    Failed: 6/10
    Pass Rate: 40.0%
-================================
+
 
 
 
