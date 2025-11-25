@@ -5,7 +5,7 @@ This test defines a realistic **Reinforcement Learning (RL) task for LLMs**, mod
 The task is designed to be run using **Claude Haiku 4.5**, following the assignment requirement of a **10–40% pass rate**.
 
 ## Task Description
-ML Experiment Selection Under Multi-Objective Constraints
+ML Experiment Selection Under Multi-Objective Constraints.
 This task trains a capability that LLMs are weak at but in the same time requires:
    - Integrate multiple metrics and resource constraints.
    - Respect fairness thresholds.
